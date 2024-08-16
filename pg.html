@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notícias</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            background-color: brown;
+            color: white;
+            padding: 10px 20px;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        a{
+            text-decoration: none;
+            color: white;
+        }
+
+        .links a:hover {
+            
+            margin: 10px 10px 10px 10px;
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+            
+        }
+
+        .articles {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 20px;
+            gap: 10px;
+        }
+
+        article {
+            flex: 1 1 300px; /* Flex item grows and shrinks with a base width of 300px */
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+            background-color: #f9f9f9;
+            padding: 10px;
+        }
+
+        img {
+            width: 100%; /* Make sure images fit within the container */
+            height: auto; /* Maintain aspect ratio */
+        }
+
+        h2, h3 {
+            margin: 10px 0;
+        }
+
+        .isso {
+            display: flex;
+            justify-content: space-between;
+            background-color: cornsilk;
+            color: darkgray;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .ai {
+            margin-top: 10px;
+        }
+
+        p {
+            margin-top: 10px;
+            line-height: 1.6;
+        }
+
+        .new:hover{
+
+            background-color: chocolate;
+        }
+
+        .new{
+           
+            font-family: Arial, Helvetica, sans-serif;
+            text-decoration:solid;
+            font-size: x-large;
+        }
+
+        
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>PR NOTÍCIAS</h1>
+        <div class="links">
+            <a href="https://pt.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol" title="Real Madrid">Confira mais</a>
+            <a href="https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2024/08/04/barcelona-2-x-1-real-madrid-ancelotti-minimiza-derrota-e-elogia-forma-de-vini-jr.ghtml" title="Barcelona x Real Madrid">Confira mais</a>
+        </div>
+    </header>
+
+    <section>
+        <div class="articles">
+            <article>
+                <img src="./imagens/mini_escuts-final.webp" alt="Escudo do Real Madrid e do Barcelona">
+                <header class="isso">
+                    <h2>Real Madrid x Barcelona</h2>
+                    <time>10/08/24</time>
+                </header>
+                <div class="ai">
+                    <h3>El Clássico está chegando</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque voluptate velit assumenda repellendus, minima aperiam? Quae, nam perferendis. Numquam omnis ratione reprehenderit quas labore soluta beatae odit earum reiciendis eos.</p>
+                </div>
+            </article>
+
+            <article>
+                <img src="./imagens/Real-Madrid.jpg" alt="Escudo do Real Madrid">
+                <h3>La Historia del gigante del mundo</h3>
+                <p>O Real Madrid Club de Fútbol, comumente referido como Real Madrid, é um clube de futebol profissional espanhol sediado em Madrid. Compete na La Liga, a principal competição do sistema de ligas da Espanha. Manda seus jogos em casa no Estádio Santiago Bernabéu, com capacidade para 81 044 pessoas, no centro de Madrid, desde 1947. Fundado em 1902 como Madrid Football Club, o clube tem tradicionalmente usado uniformes brancos como mandante desde a sua criação. O título honorífico real foi concedido ao clube pelo rei Afonso XIII em 1920 juntamente com a coroa real no emblema.</p>
+            </article>
+        </div>
+    </section>
+
+
+
+<section>
+    <header>
+        <a class="new" href = "#basquete">Confira</a>
+    </header>
+
+    <section>
+        <div class="articles">
+            <article>
+                <img id="basquete" src="./imagens/imagens/basquete.jpg" alt="Basquete">
+                <header class="isso">
+                    <h2>Brimstons x La Casa</h2>
+                    <time>19/10/24</time>
+                </header>
+                <div class="ai">
+                    <h3>The big play of World is coming</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque voluptate velit assumenda repellendus, minima aperiam? Quae, nam perferendis. Numquam omnis ratione reprehenderit quas labore soluta beatae odit earum reiciendis eos.</p>
+                </div>
+            </article>
+
+            <article>
+                <img src="./imagens/imagens/dolares.jpg" alt="Dolar">
+                <h3>Dolar dispara e brasileiros começam a se questionar sobre o Brasil</h3>
+                <p>Nessa ultima quinta feira a moeda norte americana dispara e brasileiros começam a se preocupar em relação ao seu futuro no país!</p>
+            </article>
+        </div>
+    </section>
+
+
+<section>
+    <section>
+    <header>
+        <a class="new" href = "#outro">Confira</a>
+    </header>
+
+    <section>
+        <div class="articles">
+            <article>
+                <img id="outro" src="./imagens/imagens/euro.jpg" alt="Euro">
+                <header class="isso">
+                    <h2>Euro parte na largada junto com Dolar e Real come poeira</h2>
+                    <time>16/08/24</time>
+                </header>
+                <div class="ai">
+                    <h3>Necessitamos de mudanças</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque voluptate velit assumenda repellendus, minima aperiam? Quae, nam perferendis. Numquam omnis ratione reprehenderit quas labore soluta beatae odit earum reiciendis eos.</p>
+                </div>
+            </article>
+
+            <article>
+                <img src="./imagens/imagens/petroleo.jpg" alt="Petroleo">
+                <h3>Petroleo</h3>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis odio ipsa quod tempora, doloremque maiores inventore architecto. Optio reiciendis, ad dolores maxime necessitatibus, possimus tenetur quia est asperiores eius sequi.</p>
+            </article>
+        </div>
+    </section>
+</section>
+
+</body>
+
+</html>
