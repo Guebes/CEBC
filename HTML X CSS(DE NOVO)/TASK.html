@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task</title>
+
+    <style>
+
+        /* O botões de "ler mais estão redirecionando para as devidas partes de seus titulos e 
+            os botões do header estão fazendo o mesmo.  */
+
+
+       * {
+            box-sizing: border-box;
+            margin: 1px;
+            padding: 0;
+        }
+
+
+
+        header {
+            color: white;
+            display: flex;
+            padding: 10px;
+            background-color: gray;
+            justify-content: space-between;
+        }
+
+        header h1 {
+            margin-top: 18px;
+        }
+
+        ul li {
+            display: inline;
+            padding-right: 10px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            background-color: gray;
+            list-style-type: none;
+            margin-right: 10px;
+            margin-top: 20px;
+        }
+
+        .Economia {
+            margin-top: -20px;
+            background-color: bisque;
+            padding-top: 27px;
+            display: flex;
+            margin-left: 2px;
+        }
+
+        h2 {
+            color: white;
+            position: relative;
+            margin-top: 30px;
+            margin-left: 60px;
+        }
+
+        .Economia img {
+            height: 180px;
+        }
+
+        .esportes {
+            background-color: aquamarine;
+            padding-top: 27px;
+            display: flex;
+            margin-left: 2px;
+            margin-top: -70px;
+        }
+
+        .esportes img {
+            height: 180px;
+        }
+
+        .data {
+            margin: 20px 4px 20px;
+        }
+
+        p {
+            padding: 20px 30px 20px 0;
+            margin: 0 200px 0 0;
+        }
+
+        h1 {
+            display: flex;
+            margin-left: 100px;
+            margin-top: 20px;
+        }
+
+        .titulo {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: aquamarine;
+            padding-top: 5px;
+            margin-bottom: 70px;
+            margin-left: 2px;
+            padding-right: 1715px;
+        }
+
+        ul li a {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 19px;
+            color: white;
+            background-color: rosybrown;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        ul li a:hover {
+            background-color: white;
+            color: rosybrown;
+        }
+
+        .entret {
+            background-color: aquamarine;
+            padding-top: 27px;
+            display: flex;
+            margin-left: 2px;
+            margin-top: -70px;
+        }
+
+        .entret img {
+            height: 180px;
+            margin-top: 50px;
+        }
+
+        .tec {
+            background-color: yellowgreen;
+            padding-top: -27px;
+            display: flex;
+            margin-left: 2px;
+            margin-top: -70px;
+        }
+
+        .tec img {
+            height: 180px;
+            margin-top: 90px;
+        }
+
+        .titulO {
+            background-color: bisque;
+            padding-top: 7px;
+            margin-left: 2px;
+            margin-top: -1px;
+        }
+
+        .um, .dois, .terceiro, .quarto, .quinto, .sexto, .sete, .oito, .nove, .dez, .onze, .doze {
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: white;
+            transition: background-color 0.3s ease, color 0.3s ease; /* Unifica a transição */
+        }
+
+        .um:hover,
+        .dois:hover,
+        .terceiro:hover,
+        .quarto:hover,
+        .quinto:hover,
+        .sexto:hover,
+        .sete:hover,
+        .oito:hover,
+        .nove:hover,
+        .dez:hover,
+        .onze:hover,
+        .doze:hover {
+            background-color: beige;
+            color: white; 
+        }
+
+        article a{
+
+            text-decoration: none;
+        }
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Meu portal de Notícias</h1>
+        <ul>
+            <li><a href="#esporte">Esportes</a></li>
+            <li><a href="#economia">Economia</a></li>
+            <li><a href="#entretenimento">Entretenimento</a></li>
+            <li><a href="#tec">Tecnologia</a></li>
+        </ul>
+    </header>
+
+    <section>
+        <div class="titulo">
+            <h2 id="esporte">Esportes</h2>
+        </div>
+        <div class="esportes">
+            <article>
+                <img src="./css/imagens/futebol.jpg" alt="Bola de futebol">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Noite de Jogo!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="um">
+                    <a href="#">Ler mais</a>
+                </div>
+            </article>
+
+            <article>
+                <img src="./css/imagens/futebol-americano.jpg" alt="Jogador de futebol-americano">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Derrubadas!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="dois">
+                    <a href="#">Ler mais</a>
+                </div>
+            </article>
+
+            <article>
+                <img src="./css/imagens/basquete.jpg" alt="Basquete">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Cestas!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="terceiro">
+                    <a href="#">Ler mais</a>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <section>
+        <div class="titulO">
+            <h2 id="economia">Economia</h2>
+        </div>
+        <div class="Economia">
+            <article>
+                <img src="./css/imagens/dolares.jpg" alt="Dólares">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Money!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="quarto">
+                    <a href="#economia">Ler mais</a>
+                </div>
+            </article>
+            <article>
+                <img src="./css/imagens/euro.jpg" alt="Euro">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Los dineros!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="quinto">
+                    <a href="#economia">Ler mais</a>
+                </div>
+            </article>
+            <article>
+                <img src="./css/imagens/petroleo.jpg" alt="Petróleo">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Petróleo</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="sexto">
+                    <a href="#economia">Ler mais</a>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <section>
+        <div class="TITULO">
+            <h2 id="entretenimento">Entretenimento</h2>
+        </div>
+        <div class="entret">
+            <article>
+                <img src="./css/imagens/entretenimento.avif" alt="Atividades para entretenimento">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Entreter significa relaxar!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="sete">
+                    <a href="#entretenimento">Ler mais</a>
+                </div>
+            </article>
+
+            <article>
+                <img src="./css/imagens/Direito-do-Entretenimento.webp" alt="Direito do Entretenimento">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Se divertir!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="oito">
+                    <a href="#entretenimento">Ler mais</a>
+                </div>
+            </article>
+
+            <article>
+                <img src="./css/imagens/Maiores-marcas-de-midias-e-entretenimento-do-mundo.jpg"
+                    alt="Maiores marcas de mídia e entretenimento">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>As maiores marcas da mídia!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="nove">
+                    <a href="#entretenimento">Ler mais</a>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <section>
+        <div class="titulooo">
+            <h2 id="tec">Tecnologia</h2>
+        </div>
+        <div class="tec">
+            <article>
+                <img src="./css/imagens/tecnologia-na-educação-1920x1000-c-default.png" alt="Tecnologia na educação">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Os resultados da tecnologia auxiliar!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="dez">
+                    <a href="#tec">Ler mais</a>
+                </div>
+            </article>
+
+            <article>
+                <img src="./css/imagens/Tendencias-de-tecnologia-2023-Capa.jpg" alt="Tendências da tecnologia">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>As tendências!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="onze">
+                    <a href="#tec">Ler mais</a>
+                </div>
+            </article>
+
+            <article>
+                <img src="./css/imagens/Qual-a-tecnologia.jpg" alt="Qual a tecnologia">
+                <div class="data">
+                    <time datetime="">10/07/24 às 22:00</time>
+                </div>
+                <h3>Aumentar seu rendimento profissional!</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi alias enim fugit provident? Vero
+                    perferendis, corrupti voluptatem nobis iste illo! Numquam quos ea quas sapiente mollitia placeat
+                    fazer
+                    dignissimos aperiam.
+                </p>
+                <div class="doze">
+                    <a href="#tec">Ler mais</a>
+                </div>
+            </article>
+        </div>
+    </section>
+</body>
+
+</html>
