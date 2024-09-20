@@ -1,0 +1,223 @@
+* {
+    box-sizing: border-box;
+    padding: auto;
+    margin: auto;
+    border: auto; 
+}
+
+header {
+    color: white;
+    background-color: rgb(0, 0, 55);
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+header h1 {
+
+    padding: 20px 10px 20px 2px;
+    margin-bottom: 4px;
+    font-size: 37px;
+}
+
+header ul li a {
+
+    text-decoration: none;
+    color: white;
+    transition: color 0.5s ease;
+}
+
+header ul li a:hover {
+
+    color: blanchedalmond;
+}
+
+
+header ul li {
+    font-size: 27px;
+    padding-right: 20px;
+    display: inline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+header ul li:hover {
+
+    color: gray;
+}
+
+.sobre {
+
+    margin: 10px 10px 10px 344px;
+    display: flex;
+}
+
+.sobre h2 {
+
+    color: rgb(0, 0, 55);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.sobree p {
+
+    font-size: 20px;
+    margin-top: 10px;
+    margin: 10px 300px 10px 50px;
+}
+
+.sobree img {
+
+    height: 26px;
+    margin-left: 47px;
+}
+
+.contato {
+
+    color: darkblue;
+    font-family: fantasy;
+    font-size: 17px;
+    margin: 50px 10px 10px 340px;
+}
+
+.contato h3 {
+
+    margin-top: 19px;
+}
+
+form input {
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    width: 200px;
+    margin-left: 2px;
+    padding: 6px;
+
+}
+
+
+footer button:hover{
+
+    background-color: rgb(9, 9, 122);
+}
+
+footer button {
+
+    color: white;
+    background-color: rgb(0, 0, 55);
+    padding: 10px;
+    margin-right: 400px;
+    width: 260px;
+    margin-top: 4px;
+    font-family:'Courier New', Courier, monospace;
+    transition: background-color 0.2s ease;
+}
+
+footer textarea {
+
+    margin-left: 1px;
+    margin-top: 20px;
+    display: block;
+    padding: 40px;
+    resize: none;
+}
+
+.acompanhe {
+
+    margin: -340px 20px 20px 800px;
+    color: darkblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 17px;
+    display: block;
+}
+
+.acompanhe img {
+
+    height: 20px;
+    justify-content: space-around;
+    margin-left: 2px;
+    margin-top: 8px;
+    margin-right: 8px;
+}
+
+.local {
+
+    color: darkblue;
+    margin-left: 1250px;
+    margin-top: -70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 17px;
+}
+
+.local p{
+
+    color: black;
+}
+
+.autor{
+
+    padding: 10px;
+    padding-left: 340px;
+    display: flex;
+    margin-top: 300px;
+    background-color: rgb(9, 9, 122);
+    color: white;
+    border: 10px;
+}
+
+.autor h3{
+
+    margin-left: 10px;
+}
+
+
+@media screen and (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    section{
+
+        margin-left: -400px;
+    }
+
+    section img{
+
+        height: 200px;
+        margin-top: 10px;
+        margin-left: 120px;
+    }
+
+    .sobre{
+        
+        align-items: center;
+        display: block;
+    }
+
+    .sobree{
+
+        margin-left: 70px;
+    }
+
+    .sobree p{
+
+        margin: 20px;
+    }
+
+
+    .contato{
+
+        margin-left: 460px;
+
+    }
+
+    .autor{
+
+        padding-left: 10px;
+    }
+
+}
