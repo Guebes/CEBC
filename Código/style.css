@@ -1,0 +1,82 @@
+
+*{
+    box-sizing: border-box;
+}
+
+header h1{
+
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+header h2{
+
+    margin-left: 24px;
+    margin-top: -20px;
+}
+
+form {
+    margin: 10px 500px 10px 10px;
+    border: 10px; 
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+form input{
+
+    padding: 16px;
+    
+}
+
+form button{
+
+    color: white;
+    background-color: rgb(66, 118, 71);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover{
+
+    cursor: pointer;
+    background: rgb(66, 189, 71);
+
+}
+
+.envio{
+
+    background-color: rgb(66, 189, 71);
+    margin-right: 500px;
+    padding: 16px;
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+    display: none;
+}
+
+.name-complet{
+
+    color: white;
+    font-size: 17px;
+    padding: 10px;
+    margin-top: 1px;
+    margin-bottom: -5px;
+    background-color: brown;
+    display: none;
+    outline-color: red;
+}   
+
+.idadeREQ{
+
+    color: white;
+    font-size: 17px;
+    padding: 10px;
+    margin-top: 1px;
+    margin-bottom: -5px;
+    background-color: brown;
+   display: none;
+    outline-color: red;
+}
