@@ -1,0 +1,122 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    background-color: rgb(0, 0, 62);
+    color: white;
+    justify-content: space-between;
+    overflow-x: hidden;
+}
+
+.container h1{
+
+    text-align: center;
+    width: 40%;
+    padding: 10px 0;
+}
+
+.menu ul{
+
+    padding-right: 200px;
+}
+
+.menu > ul li{
+
+    list-style: none;
+    float: left;
+    padding: 0 10px;
+    font-size: 20px;
+}
+
+/*Todo o conteudo da pagina*/
+
+.conteudo{
+
+    margin-left: 250px;
+    width: 70%;
+}
+
+.sobre{
+
+    display: flex;
+    margin-top: 20px;
+}
+
+.sobre img{
+
+    width: 80%;
+}
+
+.descricao{
+
+    padding-left: 40px;
+}
+
+.titulo_sobre{
+
+    border-bottom: 2px solid rgb(2, 2, 181);
+    width: 90%;
+}
+
+.titulo_sobre h2{
+
+    padding-bottom: 20px;
+    color: rgb(0, 0, 190);
+}
+
+.descricao p{
+
+    width: 90%;
+    margin-top: 30px;
+}
+
+.secao_produtos{
+
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    
+}
+
+.section_produtos{
+
+    padding-top: 40px;
+}
+
+.section_produtos h2{
+
+    padding-bottom: 30px;
+    border-bottom: 2px solid rgb(4, 4, 169);
+    width: 95%;
+}
+
+.produto img{
+
+    width: 80%;
+}
+
+.produto{
+
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.produto button{
+
+    padding: 5px 20px;
+    font-size: 14px;
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    width: 80%;
+}
