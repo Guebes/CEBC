@@ -10,14 +10,27 @@
 
 <body>
     <div class="container">
+        <div class="modal fade">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <h3>Cadastro realizado!</h3>
+                        <p>Seu cadastro foi realizado com sucesso!</p>
+                    </div>
+                    <div class="modal-footer">
+                        <div class="btn btn-dark" data-bs-dismiss="modal">Fechar</div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <h2>Cadastro</h2>
         <form>
             <label class="form-label" for="#camp_nome">Nome</label>
-            <input class="form-control" type="text" id="camp_nome">
+            <input class="form-control campo" type="text" id="camp_nome">
             <label class="form-label" for="#camp_email">E-mail</label>
-            <input class="form-control" type="email" id="camp_email">
+            <input class="form-control campo" type="email" id="camp_email">
             <label class="form-label" for="#camp_tel">Telefone</label>
-            <input class="form-control" type="number" id="camp_tel">
+            <input class="form-control campo" type="number" id="camp_tel">
             <div class="btn btn-success">Enviar</div>
         </form>
     </div>
