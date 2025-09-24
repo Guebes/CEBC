@@ -1,0 +1,103 @@
+@use './config/estilo1.scss';
+@use './config/variaveis.scss';
+@use 'sass:math';
+
+
+@function pixelParaEm($medidaAlvo_pixel, $medidaAtual_pixel: 16px){
+
+    //  No parametro da divisão, nós colocamos o dividendo e depois o divisor;
+    @return math.div($medidaAlvo_pixel, $medidaAtual_pixel)
+}
+
+@mixin element-form() {
+
+    display: block;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+}
+
+
+body {
+
+    background-color: white;
+}
+
+.container {
+
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header {
+
+    padding: 16px 0;
+    background-color: variaveis.$Cor_principal;
+    text-align: center;
+    color: white;
+}
+
+label {
+
+    font-weight: bold;
+}
+
+input {
+
+    @include element-form();
+    border-bottom: 1px solid variaveis.$Cor_principal;
+}
+
+input:focus {
+
+    outline: none;
+}
+
+button {
+
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+button:hover {
+
+    cursor: pointer;
+
+}
+
+.form-container {
+
+    height: calc(100vh - 68px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    input,
+    button {
+        width: 360px;
+        padding: 8px;
+        margin: 5px 0;
+
+    }
+}
+
+.margin-bottom {
+
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width:variaveis.$mobile){
+
+
+    .container{
+
+        max-width: 80%;
+    }
+
+    header h1{
+
+        padding: 0 10px;
+    }
+}
