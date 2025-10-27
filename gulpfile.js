@@ -4,10 +4,42 @@ const constReq_gulp = require('gulp')
 // O pacote "gulp-sass" é reponsável por integrar o sass com o gulp. Pacote "sass" é responsável por compilar todo o conteudo 
 const Reqsass = require('gulp-sass')(require('sass'))
 
+// Constante que irá receber a importação (require) do pacote "source-maps" 
+const sourceMaps = require('gulp-sourcemaps')
+
+// Constante que irá receber a importação (require) do pacote "uglify", que é responsável pela minificação do JS dentro do GULP 
+const ConstUglify = require('gulp-uglify')
+
+// Constante que irá receber a importação (require) do pacote "obfuscate" 
+const Const_Obfuscate = require('gulp-obfuscate')
+
+// Constante que irá receber a importação (require) do pacote "image min" 
+const Const_ReqMinImg = require('gulp-imagemin')
+
+
+function MinImage(){
+
+    return constReq_gulp.src('./source/imagens/*').pipe(Const_ReqMinImg()).pipe('./build/imagens')
+}
+
+
+function MinificarJS(){
+
+    return constReq_gulp.src('./source/scripts/*.js')
+    .pipe(ConstUglify())
+    .pipe(Const_Obfuscate())
+    .pipe(constReq_gulp.dest('./build/scripts'))
+}
+
 function compilarSass(){
     
     return constReq_gulp.src('./source/estilos/*.scss') 
-        .pipe(Reqsass())
+        .pipe(sourceMaps.init())
+        .pipe(Reqsass({
+
+            outputStyle: 'compressed'
+        }))
+        .pipe(sourceMaps.write('./maps')) // "write()" cria o arquivo de mapeamento de cada linha SCSS e considera o diretorio onde estão os arquivos CSS
         .pipe(constReq_gulp.dest('./build/estilos'))
 }
 
@@ -58,3 +90,7 @@ exports.Cumprimento = Cumprimento
 exports.default = constReq_gulp.parallel(FuncaoTeste_gulp, Cumprimento)
 
 exports.Reqsass = compilarSass
+
+exports.minificarJS = MinificarJS
+
+exports.minImage = MinImage
