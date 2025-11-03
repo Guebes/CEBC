@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","C:/Users/edria/OneDrive/%C3%81rea%20de%20Trabalho/Repositorio/EBAC/Gulp%20-%20modulo/Pratique/source/estilos/variaveis.scss"],"names":[],"mappings":"AAEA;EAEI,kBCJS","sourcesContent":["@use 'variaveis.scss';\r\n\r\nbody{\r\n\r\n    background-color: variaveis.$CorDefundo;\r\n}","$CorDefundo: rgba(95, 95, 199, 0.577);"],"file":"../main.css"}
