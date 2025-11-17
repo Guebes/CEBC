@@ -1,0 +1,14 @@
+body {
+  background-color: #4b3223;
+  color: #c0c0c0;
+}
+.container {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+}
+@media screen (max-width: 767px) {
+  .container {
+    background-color: red;
+  }
+}

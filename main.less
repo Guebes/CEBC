@@ -1,0 +1,19 @@
+@import "var.less";
+// Ajustando para cel e tablet
+@breakpointMobile: ~"(max-width: 767px)";
+
+body{
+
+    background-color: @CorPrimaria;
+    color: @corTexto;
+}
+
+.container{
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+
+    @media screen @breakpointMobile{ 
+        background-color: red;
+    }
+}
