@@ -1,3 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
 body{
-    background-color: blue;
+    background-color: rgb(4, 5, 58);
+}
+
+.container{
+
+    display: flex;
+    width: 1500px;
+    height: 900px;
+    overflow-x: hidden;
+}
+
+.img_header{
+
+    margin: auto;
+    position: relative;
+
+    img{
+        opacity: 30%;
+    }
+}
+
+.logo_text{
+
+    .logo{
+        
+        position: absolute;
+        inset: 0;
+        background-color: wheat;
+    }
+
+    img{
+        mix-blend-mode:multiply;
+        opacity: 100%;
+    }
 }

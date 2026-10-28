@@ -1,4 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
 body {
-  background-color: #00f;
+  background-color: #04053a;
+}
+
+.container {
+  width: 1500px;
+  height: 900px;
+  display: flex;
+  overflow-x: hidden;
+}
+
+.img_header {
+  margin: auto;
+  position: relative;
+}
+
+.img_header img {
+  opacity: .3;
+}
+
+.logo_text .logo {
+  background-color: wheat;
+  position: absolute;
+  inset: 0;
+}
+
+.logo_text img {
+  mix-blend-mode: multiply;
+  opacity: 1;
 }
 /*# sourceMappingURL=main.css.map */

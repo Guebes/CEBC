@@ -1,4 +1,4 @@
-3734
+3740
 77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sass\sass.default.js134365702642175024 0
 107C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\prefers-color-scheme.js134365678176678663 0
 85C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sass\types\value\string.d.ts134365702643424577 0
@@ -9,8 +9,24 @@
 56C:\Users\gabri\Desktop\2026\Ebac\Evento fic\package.json134365795967417152 0
 74C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\Img's\images\ebac_logo.svg134365716437416253 0
 132C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node134365678192279922 0
-48C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist134365798975406156 1
+48C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist134376913405323941 1
 95C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-sel3.js134365678165290161 0
+77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\lib\utility.js134365795954472328 0
+106C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c134365678196392658 0
+65C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\get-port134365678183602313 1
+63C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@lezer134365678145530289 1
+108C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\constraint-validation.js134365678162028376 0
+88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\reporter-dev-server\src134365678196915318 1
+76C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\has-flag\index.d.ts134365678148257708 0
+91C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\zstd.js134365678183425489 0
+117C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json134365678194655828 0
+92C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\webgl.js134365678181993761 0
+81C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\simple-swizzle\README.md134365795951528104 0
+88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\VE.js134365678180979180 0
+74C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@msgpackr-extract134365678145520306 1
+88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\CZ.js134365678167537874 0
+100C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\accelerometer.js134365678153668238 0
+54C:\Users\gabri\Desktop\2026\Ebac\Evento fic\.gitignore134372711110828264 0
 77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\json5\lib\unicode.js134365678166302084 0
 102C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\mutation-events.js134365678174888573 0
 93C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\esm\_define_property.js134365678155447762 0
@@ -45,14 +61,9 @@
 85C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\type-fest\source\opaque.d.ts134365678159599117 0
 64C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\globals134365678166599767 1
 79C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\src\utilities.cc134365795951873367 0
-60C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\main.js.map134365798975270248 0
+60C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\main.js.map134376911155053291 0
 91C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\graph\src\AdjacencyList.js134365678173817608 0
 63C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\dotenv134365678167446642 1
-110C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_async_generator_delegate\package.json134365678157043183 0
-104C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-focus-visible.js134365678163366102 0
-98C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\input-event.js134365678171464670 0
-100C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\core\src\requests\PackageRequest.js134365678191244108 0
-67C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\nullthrows134365678168457281 1
 119C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json134365678194284642 0
 78C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\color-convert\LICENSE134365678148593986 0
 90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\weak-lru-cache\tests\benchmark.js134365678148355882 0
@@ -69,7 +80,7 @@
 87C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\msgpackr\dist\index.min.js.map134365678167236365 0
 53C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\Img's134365716437005162 1
 111C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js134365678171384695 0
-58C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\index.html134365798973739024 0
+58C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\index.html134376913405094939 0
 81C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\detect-libc\package.json134365678157458185 0
 65C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\msgpackr134365678167987489 1
 69C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\Img's\images\data.png134365716437335128 0
@@ -88,11 +99,6 @@
 77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\picocolors\README.md134365678148582366 0
 87C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\type-fest\ts41\kebab-case.d.ts134365678159474860 0
 54C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\styles134365680614488124 1
-76C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\regenerator-runtime134365678158719449 1
-88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\IE.js134365678170980165 0
-71C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\ordered-binary134365678149561467 1
-70C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\install134365795952599438 1
-70C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\LICENSE134365795951327330 0
 67C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\color-name134365678148481170 1
 111C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\wasm-nontrapping-fptoint.js134365678181507323 0
 76C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\commander\Readme.md134365678185055791 0
@@ -101,20 +107,37 @@
 89C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_get_prototype_of134365678159358288 1
 99C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\core\lib\requests\ConfigRequest.js134365678190051698 0
 94C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\runtime-rsc\src\RSCRuntime.js134365678179015489 0
-64C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\styles\main.scss134365800633490211 0
+64C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\styles\main.scss134376914422019880 0
 77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\dotenv\lib\main.d.ts134365678167468696 0
 70C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\dotenv-expand134365678166956840 1
 102C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\node-gyp-build-optional-packages\package.json134365678152730383 0
 112C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_object_destructuring_empty\package.json134365678159817679 0
 77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\json5\lib\index.d.ts134365678166772741 0
 97C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\baseline-browser-mapping\dist\types.d.ts134365678153610742 0
-60C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\Img's\images134365716437740998 1
+60C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\Img's\images134376903521776532 1
+99C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js134365678156069818 0
+112C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_ts_add_disposable_resource\package.json134365678160242899 0
+77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\electron-to-chromium134365678158464196 1
+89C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\update-browserslist-db\README.md134365678163515694 0
+78C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\packager-html134365678181899695 1
+81C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\json5\dist\index.min.mjs134365678166643794 0
+90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\eot.js134365678168728363 0
+62C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@lmdb134365678145510226 1
+82C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\parcel\src\.eslintrc.json134365678187641146 0
+100C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\sharedworkers.js134365678178165001 0
+102C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\matchesselector.js134365678173817608 0
+106C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c134365678195976690 0
+93C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\Img's\images\Back ground img - evento fic.jpg134376861790162109 0
+88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\SM.js134365678178644082 0
 113C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage134365678190258872 1
 84C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lightningcss-win32-x64-msvc134365678148532101 1
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\GD.js134365678169990797 0
 72C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\Img's\images\backend.png134365716437185163 0
 109C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\keyboardevent-location.js134365678172522663 0
 73C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\readdirp\LICENSE134365702641064028 0
+98C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\Img's\images\Captura de tela 2026-10-28 164501.png134376903014484357 0
+90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\config-default\index.json134365678188863118 0
+77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\is-extglob\README.md134365678148272207 0
 73C:\Users\gabri\Desktop\2026\Ebac\Evento fic\src\Img's\images\frontend.png134365716437600474 0
 61C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sass134365702642298632 1
 119C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json134365678194050263 0
@@ -154,29 +177,6 @@
 65C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\src134365678198636685 1
 61C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@img134365795950637219 1
 104C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\input-file-accept.js134365678171485305 0
-77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\lib\utility.js134365795954472328 0
-106C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c134365678196392658 0
-65C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\get-port134365678183602313 1
-63C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@lezer134365678145530289 1
-108C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\constraint-validation.js134365678162028376 0
-88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\reporter-dev-server\src134365678196915318 1
-76C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\has-flag\index.d.ts134365678148257708 0
-91C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\zstd.js134365678183425489 0
-117C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json134365678194655828 0
-92C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\webgl.js134365678181993761 0
-81C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\simple-swizzle\README.md134365795951528104 0
-88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\VE.js134365678180979180 0
-74C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@msgpackr-extract134365678145520306 1
-88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\CZ.js134365678167537874 0
-100C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\accelerometer.js134365678153668238 0
-99C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\markdown-ansi\lib\markdown-ansi.js134365678156069818 0
-112C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_ts_add_disposable_resource\package.json134365678160242899 0
-77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\electron-to-chromium134365678158464196 1
-89C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\update-browserslist-db\README.md134365678163515694 0
-78C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\packager-html134365678181899695 1
-81C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\json5\dist\index.min.mjs134365678166643794 0
-90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\eot.js134365678168728363 0
-62C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@lmdb134365678145510226 1
 97C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\array-flat.js134365678158991754 0
 65C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\escalade134365678148840219 1
 66C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@mischnic134365678145421019 1
@@ -233,8 +233,8 @@
 100C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-animation.js134365678162471633 0
 101C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\watcher\node_modules\detect-libc\lib134365678148697658 1
 66C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\commander134365678185155205 1
-65C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\has-flag134365678148571862 1
 84C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\node-addon-api\node_api.gyp134365678148436771 0
+65C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\has-flag134365678148571862 1
 94C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_to_array\package.json134365678160172913 0
 100C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\node_modules\detect-libc\package.json134365795951135885 0
 95C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-zoom.js134365678166653759 0
@@ -259,6 +259,16 @@
 108C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\subresource-integrity.js134365678179137809 0
 110C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\react-refresh\cjs\react-refresh-runtime.production.js134365678152380125 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\BZ.js134365678160593366 0
+110C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_async_generator_delegate\package.json134365678157043183 0
+104C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-focus-visible.js134365678163366102 0
+98C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\input-event.js134365678171464670 0
+100C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\core\src\requests\PackageRequest.js134365678191244108 0
+67C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\nullthrows134365678168457281 1
+76C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\regenerator-runtime134365678158719449 1
+88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\IE.js134365678170980165 0
+71C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\ordered-binary134365678149561467 1
+70C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\install134365795952599438 1
+70C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\LICENSE134365795951327330 0
 102C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\cjs\_class_private_field_get.cjs134365678152957411 0
 90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_non_iterable_rest134365678159776932 1
 63C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\parcel134365678187686057 1
@@ -343,7 +353,7 @@
 82C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\weak-lru-cache\index.d.ts134365678148828937 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\MT.js134365678174815312 0
 86C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\weak-lru-cache\LRFUExpirer.js134365678148571862 0
-55C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\styles134365800633906372 1
+55C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\styles134376914422309891 1
 101C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc134365678163986664 0
 109C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\passive-event-listener.js134365678176099870 0
 74C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\readdirp\index.js134365702641265505 0
@@ -836,6 +846,7 @@
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\CR.js134365678162152407 0
 99C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\node_modules\node-addon-api\README.md134365678190061780 0
 76C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\lib\colour.js134365795952943033 0
+86C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\Logo header - evento fic.2c189ea3.jpg134376898591200019 0
 79C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sharp\lib\composite.js134365795952978853 0
 103C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-mixblendmode.js134365678164087063 0
 98C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\input-color.js134365678171394841 0
@@ -1003,12 +1014,12 @@
 74C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\node_modules134365678145567303 1
 84C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sass\types\value\color.d.ts134365702642392315 0
 105C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-widows-orphans.js134365678166352541 0
-88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\BN.js134365678160272894 0
-109C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\msgpackr-extract\node_modules\detect-libc\index.d.ts134365678148802381 0
-87C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sass\types\value\function.d.ts134365702642815707 0
-90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\sxg.js134365678179464589 0
 99C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\transformer-react-refresh-wrap\src134365678175268055 1
 73C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\src\env.cpp134365678197656087 0
+109C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\msgpackr-extract\node_modules\detect-libc\index.d.ts134365678148802381 0
+87C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sass\types\value\function.d.ts134365702642815707 0
+88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\BN.js134365678160272894 0
+90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\sxg.js134365678179464589 0
 94C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\flexbox.js134365678169505321 0
 95C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\codeframe\lib\codeframe.js.map134365678171304160 0
 85C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\sass\types\value\module.d.ts134365702643031542 0
@@ -1142,8 +1153,6 @@
 85C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\esm\_type_of.js134365678156476001 0
 99C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\msgpackr-extract\bin\download-prebuilds.js134365678148571862 0
 76C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\parcel\package.json134365678187671621 0
-82C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\parcel\src\.eslintrc.json134365678187641146 0
-100C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\sharedworkers.js134365678178165001 0
 74C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\parcel\src\bin.js134365678187526060 0
 106C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-in-out-of-range.js134365678163714819 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\LR.js134365678173647676 0
@@ -1553,7 +1562,7 @@
 112C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c134365678195902981 0
 90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_iterable_to_array134365678159706088 1
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\BE.js134365678159766838 0
-68C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\styles\main.css.map134365800633896363 0
+68C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\styles\main.css.map134376914422289908 0
 114C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c134365678196216464 0
 114C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c134365678196357842 0
 119C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json134365678194080246 0
@@ -1611,8 +1620,6 @@
 104C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lightningcss\node_modules\detect-libc\README.md134365678148770531 0
 107C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\runtime-js\lib\helpers\node\node-loader.js134365678188706872 0
 104C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h134365678200100158 0
-102C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\matchesselector.js134365678173817608 0
-106C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c134365678195976690 0
 106C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.h134365678200120134 0
 74C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data134365678181005487 1
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\GM.js134365678170328737 0
@@ -1689,8 +1696,6 @@
 73C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\is-glob\index.js134365678148272207 0
 78C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\browserslist\error.js134365678167207312 0
 80C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\is-extglob\package.json134365678148122717 0
-90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\config-default\index.json134365678188863118 0
-77C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\is-extglob\README.md134365678148272207 0
 94C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\colr-v1.js134365678161913045 0
 76C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\is-arrayish\LICENSE134365795951426236 0
 96C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\xhtmlsmil.js134365678182792418 0
@@ -1965,6 +1970,7 @@
 97C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\profiler\src\SamplingProfiler.js134365678169825956 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\KG.js134365678172572646 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\KI.js134365678172622614 0
+90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\Back ground img - evento fic.7f1771e1.jpg134376911154943268 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\KM.js134365678172644592 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\KN.js134365678172654609 0
 112C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\document-scrollingelement.js134365678168383988 0
@@ -2052,7 +2058,6 @@
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\SI.js134365678178457961 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\SK.js134365678178569191 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\SL.js134365678178596900 0
-88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\SM.js134365678178644082 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\SN.js134365678178671297 0
 111C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js134365678174143482 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\regions\SO.js134365678178716957 0
@@ -2271,7 +2276,6 @@
 101C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-snappoints.js134365678165357979 0
 97C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-sticky.js134365678165390962 0
 98C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-subgrid.js134365678165426305 0
-110C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_class_private_method_get\package.json134365678158827392 0
 102C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\css-text-indent.js134365678165574668 0
 82C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\transformer-babel134365678179122888 1
 93C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\caniuse-lite\data\features\webgpu.js134365678182059765 0
@@ -2723,6 +2727,7 @@
 121C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_class_static_private_field_spec_set\package.json134365678158961778 0
 121C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_class_static_private_field_spec_get\package.json134365678158918488 0
 111C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_class_private_method_init\package.json134365678158844872 0
+110C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_class_private_method_get\package.json134365678158827392 0
 112C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_class_private_field_update\package.json134365678158804840 0
 116C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_class_private_field_loose_base\package.json134365678158669457 0
 110C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\_\_class_private_field_init\package.json134365678158619447 0
@@ -2986,7 +2991,7 @@
 85C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\package-manager\test134365678190014524 1
 104C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\cjs\_skip_first_generator_next.cjs134365678154163514 0
 94C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\cjs\_sliced_to_array.cjs134365678154186179 0
-56C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\main.js134365798975207379 0
+56C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\main.js134376911155013290 0
 94C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\cjs\_super_prop_base.cjs134365678154207863 0
 108C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\cjs\_tagged_template_literal_loose.cjs134365678154222488 0
 84C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@swc\helpers\cjs\_throw.cjs134365678154260192 0
@@ -3298,7 +3303,7 @@
 93C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\transformer-babel\src\jsx.js134365678178934848 0
 151C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\index.json134365678193839461 0
 107C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\transformer-babel\src\remapAstLocations.js134365678179001238 0
-71C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\Evento fic.59712999.js134365798975237310 0
+71C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\Evento fic.59712999.js134376911154820571 0
 95C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\transformer-babel\src\types.js134365678179041302 0
 95C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\transformer-babel\src\utils.js134365678179088305 0
 74C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@parcel\graph\lib134365678174408160 1
@@ -3711,7 +3716,7 @@
 96C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@img\sharp-win32-x64\lib\libvips-42.dll134365795963806802 0
 97C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\@img\sharp-win32-x64\lib\libvips-cpp.dll134365795964444821 0
 90C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\.bin\baseline-browser-mapping.cmd134365678204956987 0
-59C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\index.html134365798975207379 0
+59C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\index.html134376913405313941 0
 73C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\.bin\detect-libc134365678204928200 0
 89C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\.bin\download-lmdb-prebuilds.cmd134365678204956987 0
 89C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\.bin\download-msgpackr-prebuilds134365678204956987 0
@@ -3730,6 +3735,7 @@
 72C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\.bin\semver.ps1134365678204968475 0
 84C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\.bin\update-browserslist-db134365678204968475 0
 88C:\Users\gabri\Desktop\2026\Ebac\Evento fic\node_modules\.bin\update-browserslist-db.ps1134365678204968475 0
-69C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\backend.479f2e1e.png134365798975396140 0
-75C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\Evento fic.59712999.js.map134365798975270248 0
-64C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\styles\main.css134365800633866362 0
+69C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\backend.479f2e1e.png134376865041499773 0
+95C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\Captura de tela 2026-10-28 164501.a571aa98.png134376911155003340 0
+75C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\Evento fic.59712999.js.map134376911154920565 0
+64C:\Users\gabri\Desktop\2026\Ebac\Evento fic\dist\styles\main.css134376914422259997 0
